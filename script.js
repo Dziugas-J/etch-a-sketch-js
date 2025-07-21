@@ -43,7 +43,6 @@ function getRandomColor(){
             reduceColor(197, 239, 202)
         ];
         value -= 0.001; 
-        console.log(value);
         return colors[Math.floor(Math.random() * colors.length)];
     }
     else{
