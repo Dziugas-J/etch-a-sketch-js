@@ -1,1 +1,2 @@
-DEMO: https://dziugasj123.github.io/etch-a-sketch-js/
+
+https://dziugas-j.github.io/etch-a-sketch-js/
